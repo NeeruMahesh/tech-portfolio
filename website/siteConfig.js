@@ -12,10 +12,10 @@
 const users = [];
 
 const siteConfig = {
-    title: 'Your Name Here', // Title for your website.
-    tagline: 'Continuously improving, aspiring technologist.',
+    title: 'Neeraja Abburu', // Title for your website.
+    tagline: 'Technology Enthusiast, Parent, Software Developer, Hiker, Attending vGHC 2020',
     profilePhoto: 'img/profile.png',
-    url: 'https://joatmon08.github.io', // Your website URL
+    url: 'https://github.com/NeeruMahesh', // Your website URL
     baseUrl: '/tech-portfolio/', // Base URL for your project */
     // For github.io type URLs, you would set the url and baseUrl like:
     //   url: 'https://facebook.github.io',
@@ -67,9 +67,9 @@ const siteConfig = {
     enableUpdateTime: true,
 
     socialMedia: {
-        linkedin: '',
+        linkedin: 'neeraja-abburu',
         twitter: '',
-        github: '',
+        github: 'NeeruMahesh',
     },
 
     // You may provide arbitrary config keys to be used as needed by your
